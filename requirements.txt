@@ -1,0 +1,5 @@
+scapy
+manuf
+netifaces
+colorama
+zeroconf
