@@ -17,6 +17,3 @@ NetPulse is an advanced local network scanner that discovers devices, identifies
 
 ```bash
 pip install -r requirements.txt
-
-aansn n xsx
-sb nns 
